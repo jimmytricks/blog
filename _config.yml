@@ -2,4 +2,4 @@ title: My Blog
 description: A minimal markdown blog
 markdown: kramdown
 baseurl: "/blog"
-url: "https://jimmytricks.github.io"
+url: "https://jimmytricks.github.io/blog"
